@@ -1,8 +1,5 @@
 # book-engine
 
-![project_screenshot](https://user-images.githubusercontent.com/108504537/214184800-bd520930-3e9d-4900-b7dd-a239f4a3775c.png)
-
-
 
 ## Description
 This certain project is for the readers! I want to search for new books and also keep a list of books to purchase on the website. 
@@ -22,5 +19,5 @@ npm run develop
 Requirements to run:
 Apollo Client, GraphQl, JWT, React, Apollo-Server-Express, Bcrypt, Express, Mongoose, and jsonWebToken
 
-
+![project_screenshot](https://user-images.githubusercontent.com/108504537/214184800-bd520930-3e9d-4900-b7dd-a239f4a3775c.png)
 
