@@ -20,7 +20,4 @@ Apollo Client, GraphQl, JWT, React, Apollo-Server-Express, Bcrypt, Express, Mong
 
 
 
-<img src="">
-
-
 
